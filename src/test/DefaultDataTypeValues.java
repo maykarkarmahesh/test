@@ -10,5 +10,6 @@ public class DefaultDataTypeValues {
 		System.out.println(b);
 		System.out.println(s);
 		System.out.println(f);
+		System.out.println("Mahesh");
 	}
 }
