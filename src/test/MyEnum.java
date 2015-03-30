@@ -17,7 +17,8 @@ public enum MyEnum {
 	public static void main(String[] args) {
 		MyEnum[] values = MyEnum.values();
 		for (MyEnum myEnum : values) {
-			System.out.println(myEnum.value);	
+			System.out.println(myEnum.value);
+			//test revert
 		}
 		
 	}
